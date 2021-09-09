@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #08242c;
+}
+
+header{
+    padding: 40px 100px;
+}
+
+header img{
+    width: 125px;
+}
+
+banner{
+    padding: 20px 0px;
+    text-align: center;
+}
